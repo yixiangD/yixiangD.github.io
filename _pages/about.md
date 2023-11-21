@@ -13,7 +13,7 @@ redirect_from:
 - My current research interest is on integrating **knowledge-driven** and **data-driven computational models** to probe the mechanisms of diseases and effectiveness of therapeutics by leveraging data acquired from bench to bed-side and existing biological/medical knowledge, for example, diabetes in endocrinology and infectious diseases in immunology.
 - [CV](http://yixiangd.github.io/files/YixiangDeng_CV.pdf)
 
-![Word cloud of my research](images/word_cloud.pdf)
+![Word cloud of my research](../images/word_cloud.pdf)
 
 Recent news
 ===========
