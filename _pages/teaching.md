@@ -14,7 +14,7 @@ author_profile: true
 
 ## Massachusetts Institute of Technology
 
-- Teaching Assistant, 20.260/20.460 Comptational Analysis: Biological Data, Spring 2022
+- Teaching Assistant, 20.260/20.460 Computational Analysis: Biological Data, Spring 2022
     - Instructors: Prof. Douglas Lauffenburger and Prof. Forest White
     - Description: This course is aimed at meeting the following learning objectives:
         - To gain an understanding of how to frame questions concerning aspired prediction and insight from computational analysis and modeling of "omic data" in biology
