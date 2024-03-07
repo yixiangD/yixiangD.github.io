@@ -29,7 +29,7 @@ author_profile: true
 
 1. N. Nziza<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, L. Wood, N. Dhanoa, N. Dulit-Greenberg, T. Chen, A. Kane, Z. Swank, J. Davis, M. Demokritou, A. P. Chitnis, A. Fasano, A. G. Edlow, N. Jain, B. Horwitz, R. McNamara, B. Julg, W. G. Shreffler, G. Alter, L. M. Yonker [Humoral profiles of toddlers and young children following SARS-CoV-2 mRNA vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10104253/). *Nature Communications*, 2024.
 
-1. X. Tong<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, D. Cizmeci, L. Fontana, M. A. Carlock, H. B. Hanley, R. P. McNamara, D. Lingwood, T. M. Ross, G. Alter. [Distinct Functional Humoral Immune Responses Are Induced after Live Attenuated and Inactivated Seasonal Influenza Vaccination](https://journals.aai.org/jimmunol/article/212/1/24/266461). *Journal of Immunology*, 2024.
+1. X. Tong<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, D. Cizmeci, L. Fontana, M. A. Carlock, H. B. Hanley, R. P. McNamara, D. Lingwood, T. M. Ross, G. Alter. [Distinct Functional Humoral Immune Responses Are Induced after Live Attenuated and Inactivated Seasonal Influenza Vaccination](https://journals.aai.org/jimmunol/article/212/1/24/266461). *Journal of Immunology*, 2024 (**Cover Article**).
    
 1. **Y. Deng**<sup>\*</sup>, C. Atyeo, D. Yuan, T. M Chicz, T. Tibbitts, M. Gorman, S. Taylor, V. Lecouturier, D. A. Lauffenburger, R. M. Chicz, G. Alter, R. P. McNamara [Beta-spike-containing boosters induce robust and functional antibody responses to SARS-CoV-2 in macaques primed with distinct vaccines](https://www.sciencedirect.com/science/article/pii/S2211124723013049?via%3Dihub). *Cell Reports*, 2023.
   
