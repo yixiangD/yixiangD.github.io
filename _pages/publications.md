@@ -25,6 +25,8 @@ author_profile: true
 1. M. Agraz<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, G. Karniadakis, C. Mantzoros. [Long-term Prediction of Severe Hypoglycemia in Type 2 Diabetes Based on Multi-view Co-training](https://www.medrxiv.org/content/10.1101/2023.08.08.23293518v1). *medRxiv*, 2023.
 
 ## Journal Papers during Postdoc
+1. **Y. Deng**<sup>\*</sup>; M. Tang<sup>\*</sup>; T. M. Ross; A. G. Schmidt; A. K. Chakraborty; D. Lingwood. [Repeated vaccination with homologous influenza hemagglutinin broadens human antibody responses to unmatched flu viruses]. *submitted*, 2024.
+
 1. N. Nziza<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, L. Wood, N. Dhanoa, N. Dulit-Greenberg, T. Chen, A. Kane, Z. Swank, J. Davis, M. Demokritou, A. P. Chitnis, A. Fasano, A. G. Edlow, N. Jain, B. Horwitz, R. McNamara, B. Julg, W. G. Shreffler, G. Alter, L. M. Yonker [Humoral profiles of toddlers and young children following SARS-CoV-2 mRNA vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10104253/). *Nature Communications*, 2024.
 
 1. X. Tong<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, D. Cizmeci, L. Fontana, M. A. Carlock, H. B. Hanley, R. P. McNamara, D. Lingwood, T. M. Ross, G. Alter. [Distinct Functional Humoral Immune Responses Are Induced after Live Attenuated and Inactivated Seasonal Influenza Vaccination](https://journals.aai.org/jimmunol/article/212/1/24/266461). *Journal of Immunology*, 2024.
