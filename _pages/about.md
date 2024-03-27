@@ -16,7 +16,7 @@ redirect_from:
 Recent news
 ===========
 - (May 12-17, 2024) Yixiang will give an invited talk at [Data Sciences for Mesoscale and Macroscale Materials Models](https://www.imsi.institute/activities/data-driven-materials-informatics/data-sciences-for-mesoscale-and-macroscale-materials-models/) hosted by the Institute for Mathematical and Statistical Innovation (IMSI), Chicago, IL.
-- (Mar 22, 2024) Yixiang will present a poster at [MIT Microbiome Symposium](https://sites.mit.edu/microbiome-club/about-2/), Cambridge, MA.
+- (Mar 22, 2024) Yixiang presented a poster at [MIT Microbiome Symposium](https://sites.mit.edu/microbiome-club/about-2/), Cambridge, MA.
 - (Feb. 26- Mar. 1, 2024) Yixiang attended [NCBI ML/AI Codeathon](https://ncbiinsights.ncbi.nlm.nih.gov/2024/03/05/celebrating-transparent-ml-ai-solutions-codeathon/) hosted by NCBI, NIH.
 - (Oct. 18-21, 2023) Yixiang attended [Duke Engineering Future Faculty of Innovation and Excellence](https://sites.google.com/view/duke-engineering-define/home) hosted by Duke University, Durham, NC.
 - (Oct. 11-14, 2023) Yixiang presented her posters at [BMES 2023](https://www.bmes.org/annualmeeting), Seattle, WA.
