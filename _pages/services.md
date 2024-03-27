@@ -27,6 +27,7 @@ author_profile: true
   - [Journal] [Frontiers in Physics](https://www.frontiersin.org/journals/physics)
   - [Journal] [Applied Mathematics and Mechanics (English Edition)](https://www.springer.com/journal/10483)
   - [Journal] [Journal of Computational and Applied Mathematics](https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics)
+  - [Journal] [Computer Methods in Biomechanics and Biomedical Engineering](https://www.tandfonline.com/toc/gcmb20/current)
   - [Journal] [Micromachines](https://www.mdpi.com/journal/micromachines)
   - [Journal] [Brain Sciences](https://www.mdpi.com/journal/brainsci)
   - [Journal] [Journal of Clinical Science](https://www.mdpi.com/journal/jcm)
