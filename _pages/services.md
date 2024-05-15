@@ -5,8 +5,9 @@ permalink: /services/
 author_profile: true
 ---
 - Outreach:
-  - Treasurer, Ragon WISE (Women in STEM Empowerment)
+  - Treasurer, Ragon WISE (Women in STEM Empowerment), Ragon Institute
   - [U.S. Association for Computational Mechanics-Female Research Group (USACM-FRG)](https://frgusacm.org/)
+  - Reviewer, [Summer Research Trainee Program (SRTP)](https://www.massgeneral.org/cdi/programs/students/summer-research-trainee-program-srtp), July 2024, MGH
 - Guest editor:
   - Special issue: *Physics-informed machine learning for biomechanics and bio-fluid dynamics* on [Molecular and Celluar Biomechanics](https://www.techscience.com/journal/mcb).
 
