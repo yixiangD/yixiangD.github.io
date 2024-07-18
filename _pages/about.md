@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Please consider to submit to our special issue on *Molecular and Cellular Biomechanics*: [Physics-informed machine learning for biomechanics and bio-fluid dynamics](https://www.techscience.com/mcb/special_detail/physics_machine-learning). The deadline is **May 31, 2024**.
+
+<!--- Please consider to submit to our special issue on *Molecular and Cellular Biomechanics*: [Physics-informed machine learning for biomechanics and bio-fluid dynamics](https://www.techscience.com/mcb/special_detail/physics_machine-learning). The deadline is **May 31, 2024**.-->
 - I am currently a Postdoctoral Fellow, working with [Prof. Daniel Lingwood](https://ragoninstitute.org/lingwood/), [Prof. Hernandez Moura-Silva](https://biology.mit.edu/profile/hernandez-moura-silva/), and [Dr. Charles Evavold](https://ragoninstitute.org/evavold/) at [Ragon Institute of Mass General, MIT, and Harvard](https://ragoninstitute.org/). I am also working with [Prof. Douglas A Lauffenburger](http://web.mit.edu/dallab/people/index.html) at [MIT](https://www.mit.edu/). I was advised by Prof. Lauffenburger and [Prof. Galit Alter](https://researchers.mgh.harvard.edu/profile/3588853/Galit-Alter) (now the Vice President of Immunology Research at Moderna) before October 2022.
 - Before joining the Ragon Institute, I completed my Ph.D. study at [Brown University](https://www.brown.edu/), advised by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) in 2021. I received my B.Eng. degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2015.
 - My current research interest is in integrating **knowledge-driven** and **data-driven computational models** to probe the mechanisms of diseases and effectiveness of therapeutics by leveraging data acquired from bench to bedside and existing biological/medical knowledge, for example, diabetes in endocrinology and infectious diseases in immunology.
@@ -15,8 +16,10 @@ redirect_from:
 
 Recent news
 ===========
+- (Jul. 15-24, 2024) Yixiang attended [SISMID](https://sph.emory.edu/SISMID/index.html) at Emory University with support from [the Halloran Scholarship](https://sph.emory.edu/SISMID/scholarships/index.html), Atlanta, GA.
+- (Jun. 24, 2024) Yixiang presented a poster at [Harvard Immunology Retreat](https://immunology.hms.harvard.edu/), North Falmouth, MA.
 - (May 14, 2024) Yixiang gave an invited talk at [Data Sciences for Mesoscale and Macroscale Materials Models](https://www.imsi.institute/activities/data-driven-materials-informatics/data-sciences-for-mesoscale-and-macroscale-materials-models/) hosted by the Institute for Mathematical and Statistical Innovation (IMSI), Chicago, IL.
-- (Mar 22, 2024) Yixiang presented a poster at [MIT Microbiome Symposium](https://sites.mit.edu/microbiome-club/about-2/), Cambridge, MA.
+- (Mar. 22, 2024) Yixiang presented a poster at [MIT Microbiome Symposium](https://sites.mit.edu/microbiome-club/about-2/), Cambridge, MA.
 - (Feb. 26- Mar. 1, 2024) Yixiang attended [NCBI ML/AI Codeathon](https://ncbiinsights.ncbi.nlm.nih.gov/2024/03/05/celebrating-transparent-ml-ai-solutions-codeathon/) hosted by NCBI, NIH.
 - (Oct. 18-21, 2023) Yixiang attended [Duke Engineering Future Faculty of Innovation and Excellence](https://sites.google.com/view/duke-engineering-define/home) hosted by Duke University, Durham, NC.
 - (Oct. 11-14, 2023) Yixiang presented her posters at [BMES 2023](https://www.bmes.org/annualmeeting), Seattle, WA.
