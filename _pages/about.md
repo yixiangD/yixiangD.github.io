@@ -9,13 +9,16 @@ redirect_from:
 ---
 
 <!--- Please consider to submit to our special issue on *Molecular and Cellular Biomechanics*: [Physics-informed machine learning for biomechanics and bio-fluid dynamics](https://www.techscience.com/mcb/special_detail/physics_machine-learning). The deadline is **May 31, 2024**.-->
-- I am currently a Postdoctoral Fellow, working with [Prof. Daniel Lingwood](https://ragoninstitute.org/lingwood/), [Prof. Hernandez Moura-Silva](https://biology.mit.edu/profile/hernandez-moura-silva/), and [Dr. Charles Evavold](https://ragoninstitute.org/evavold/) at [Ragon Institute of Mass General, MIT, and Harvard](https://ragoninstitute.org/). I am also working with [Prof. Douglas A Lauffenburger](http://web.mit.edu/dallab/people/index.html) at [MIT](https://www.mit.edu/). I was advised by Prof. Lauffenburger and [Prof. Galit Alter](https://researchers.mgh.harvard.edu/profile/3588853/Galit-Alter) (now the Vice President of Immunology Research at Moderna) before October 2022.
-- Before joining the Ragon Institute, I completed my Ph.D. study at [Brown University](https://www.brown.edu/), advised by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) in 2021. I received my B.Eng. degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2015.
+- I am currently an assistant professor in [the Department of Computer and Information Sciences](https://www.cis.udel.edu/) at the University of Delaware.
 - My current research interest is in integrating **knowledge-driven** and **data-driven computational models** to probe the mechanisms of diseases and effectiveness of therapeutics by leveraging data acquired from bench to bedside and existing biological/medical knowledge, for example, diabetes in endocrinology and infectious diseases in immunology.
+- Before joining UD, I was a Postdoctoral Fellow working with [Prof. Daniel Lingwood](https://ragoninstitute.org/lingwood/) at [Ragon Institute of Mass General, MIT, and Harvard](https://ragoninstitute.org/) from 2022 to 2024. In the meantime, I also worked with [Prof. Douglas A Lauffenburger](http://web.mit.edu/dallab/people/index.html) at [MIT](https://www.mit.edu/). I was co-advised by Prof. Lauffenburger and [Prof. Galit Alter](https://researchers.mgh.harvard.edu/profile/3588853/Galit-Alter) (now the Vice President of Immunology Research at Moderna) before October 2022.
+- Before joining the Ragon Institute, I completed my Ph.D. study at [Brown University](https://www.brown.edu/), advised by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) in 2021. I received my B.Eng. degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2015.
+
 - [CV](http://yixiangd.github.io/files/YixiangDeng_CV.pdf); Fun: [A word cloud summarizing my PhD research](../images/word_cloud.pdf)
 
 Recent news
 ===========
+- (Aug. 16, 2024) Yixiang's first day at UD started. Go Blue Hens!
 - (Jul. 15-24, 2024) Yixiang attended [SISMID](https://sph.emory.edu/SISMID/index.html) at Emory University with support from [the Halloran Scholarship](https://sph.emory.edu/SISMID/scholarships/index.html), Atlanta, GA.
 - (Jun. 24, 2024) Yixiang presented a poster at [Harvard Immunology Retreat](https://immunology.hms.harvard.edu/), North Falmouth, MA.
 - (May 14, 2024) Yixiang gave an invited talk at [Data Sciences for Mesoscale and Macroscale Materials Models](https://www.imsi.institute/activities/data-driven-materials-informatics/data-sciences-for-mesoscale-and-macroscale-materials-models/) hosted by the Institute for Mathematical and Statistical Innovation (IMSI), Chicago, IL.
